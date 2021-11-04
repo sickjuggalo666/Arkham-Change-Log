@@ -13,3 +13,8 @@ Arcade system on the Pier! New Blips to show some new spots off! still more hidd
 .
 .
 .
+
+Added New Robberies!!!! Plane, warehouse, and other illegal jobs to get 
+money or items!!! be sure to check them out!
+
+Adding new terminal hacker that will be in prolly tomorrow! it will be difficult at first as we learn but the rewards will be awesome!
