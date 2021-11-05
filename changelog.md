@@ -20,3 +20,5 @@ money or items!!! be sure to check them out!
 Adding new terminal hacker that will be in prolly tomorrow! it will be difficult at first as we learn but the rewards will be awesome!
 
 Lockers for mechanics so they have access to parts they need! the new drug script is in but still a bit buggy! give it a try and let me know what you find too!! be SUPER helpful to me!
+
+Lockers for PD are now made based on your name. Evidence lockers should be made based off of the case number in the MDT! easier to find when we need it! Chief can also search lockers and evidence! 
