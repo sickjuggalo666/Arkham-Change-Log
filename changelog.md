@@ -21,4 +21,6 @@ Adding new terminal hacker that will be in prolly tomorrow! it will be difficult
 
 Lockers for mechanics so they have access to parts they need! the new drug script is in but still a bit buggy! give it a try and let me know what you find too!! be SUPER helpful to me!
 
-Lockers for PD are now made based on your name. Evidence lockers should be made based off of the case number in the MDT! easier to find when we need it! Chief can also search lockers and evidence! 
+Lockers for PD are now made based on your name. Evidence lockers should be made based off of the case number in the MDT! easier to find when we need it! Chief can also search lockers and evidence!
+
+The New Terminal Hacker game is in!!!!!!!!! a secret location to practise the hacking and get prizes!!! you will also be on a scoreboard and i will reward the top hacker!!!! Its confusing at first but try and try again!!! it becomes easier as you try!!!! 
