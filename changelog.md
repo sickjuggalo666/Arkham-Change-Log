@@ -28,3 +28,5 @@ The New Terminal Hacker game is in!!!!!!!!! a secret location to practise the ha
 New Donation packs are available on the Arkham City Tebex City! Includes cars, money, queue status, and much more!!!! When redeeming from tebex you but copy your tbx id
 e.x. (tbx-...........................) and do /redeem in game and paste that code! The Coins will be added to you where you can go see some cool cars, maybe get a name change!!! or if you want more char slots this is how it will be done from now on!! garage space will also start to work this way once i smooth that out some! but you will not be allowed to have over a set amount of cars unless you pay for extra garage slots! Police have new Props for when you have a crime scene!! New Hospital!!! Come Hang out and see all the cool new stuff
 for you all to do!!!!
+
+I am REALLY happy to announce the New Phone for Arkham City!!! it is SO clean and has so much to it!! apps and valet and all the cool shit I have been wanting in a phone!!!!!!! working on photos as they wont fully take or load!! but should be fixed ASAP.. everything else works from what I have Tested!!!!!!
