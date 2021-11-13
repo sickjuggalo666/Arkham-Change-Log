@@ -30,3 +30,5 @@ e.x. (tbx-...........................) and do /redeem in game and paste that cod
 for you all to do!!!!
 
 I am REALLY happy to announce the New Phone for Arkham City!!! it is SO clean and has so much to it!! apps and valet and all the cool shit I have been wanting in a phone!!!!!!! working on photos as they wont fully take or load!! but should be fixed ASAP.. everything else works from what I have Tested!!!!!!
+
+New Trailers and Trucks to tow your vehicles to car meets, drag races or just to show off what you got!!! I will post how these are used and what to do with them in a short bit! keep eyes on #keybinds-and-commands!
